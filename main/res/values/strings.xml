@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Echoes</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="text">This app is called Echoes.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
